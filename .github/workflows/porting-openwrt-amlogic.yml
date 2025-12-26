@@ -190,7 +190,7 @@ on:
       builder_name:
         description: "Set Nama Builder"
         required: false
-        default: "ST4NGKUDUT"
+        default: "freedom"
         
 env:
   TZ: Asia/Jakarta
